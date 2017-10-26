@@ -1,0 +1,1 @@
+Napisz program obliczający sumę 100 pierwszych (początkowych) liczby pierwszych.
